@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1212px" height="1022px" viewBox="-263.181 -61.504 1212 1022"
+	 overflow="visible" enable-background="new -263.181 -61.504 1212 1022" xml:space="preserve">
+<defs>
+</defs>
+<path fill="none" d="M0,134.917l109.444,666.319h489.42l119.958-680.837C718.822,120.399,357.663-159.933,0,134.917z"/>
+<polygon fill="#AE4A29" points="109.444,794.923 30.628,893.829 677.781,893.829 598.864,794.923 "/>
+<rect x="30.628" y="893.829" fill="#D77031" width="647.153" height="66.293"/>
+<polygon fill="#AE4A29" points="81.133,960.122 0,1468.381 55.879,1468.381 153.741,960.122 "/>
+<polygon fill="#AE4A29" points="166.803,960.122 99.926,1379.092 145.985,1379.092 226.658,960.122 "/>
+<polygon fill="#AE4A29" points="640.38,1468.381 559.248,960.122 615.125,960.122 712.99,1468.381 "/>
+<polygon fill="#AE4A29" points="530.91,1379.092 464.033,960.122 510.093,960.122 590.766,1379.092 "/>
+<path fill="#D77031" d="M18.258,250.269c0,0,311.375-281.513,676.938,8.446l23.626-134.107c0,0-392.596-281.376-718.822,14.519
+	L18.258,250.269z"/>
+<polygon fill="#D77031" points="153.741,164.479 218.885,801.236 277.816,801.236 231.551,138.41 "/>
+<polyline fill="#D77031" points="326.377,124.064 349.427,801.236 395.68,801.236 395.68,115.112 326.377,115.112 "/>
+<polygon fill="#D77031" points="492.493,138.41 452.506,801.236 507.229,801.236 574.579,163.521 "/>
+<polygon fill="#D77031" points="98.002,731.586 109.444,801.236 598.864,801.236 612.452,724.104 96.774,724.104 "/>
+<polygon fill="#D77031" points="18.258,246.06 101.481,752.756 176.795,752.756 96.774,192.306 "/>
+<polygon fill="#D77031" points="636.116,180.357 540.902,801.236 598.864,801.236 695.196,254.506 "/>
+</svg>
